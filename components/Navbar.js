@@ -6,6 +6,8 @@ export default function Navbar() {
         <>
             <nav>
                 <Link href="/"><a>Home</a></Link>
+                <Link href="/post"><a>post</a></Link>
+                <Link href="/portfolio"><a>portfolio</a></Link>
             </nav>
         </>
     )
